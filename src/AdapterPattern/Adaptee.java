@@ -1,7 +1,7 @@
 package AdapterPattern;
 
 /**
- * Adaptee 创建源类
+ * Adaptee 创建源类 需要适配的类
  * <p>
  * author: 张冠之 <br>
  * time:   2017/03/03 11:15 <br>
